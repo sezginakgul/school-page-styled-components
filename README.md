@@ -1,3 +1,1 @@
-## DEPLOYED:
-
-https://styled-clarusway.netlify.app/
+## school-page-styled-components
