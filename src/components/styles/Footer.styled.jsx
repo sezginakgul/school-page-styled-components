@@ -6,6 +6,12 @@ export const FooterDiv = styled.footer`
   color: ${({ theme }) => theme.colors.header};
 `;
 
+export const FooterContent = styled.div`
+  max-width: ${({ theme }) => theme["max-width"]};
+  margin: 1rem auto;
+  padding: 1rem;
+`;
+
 export const FooterLogo = styled.img`
   width: 320px;
   margin: 1rem 0;
